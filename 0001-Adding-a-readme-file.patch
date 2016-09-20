@@ -1,0 +1,21 @@
+From a73f4330b90a14554e5b4da66013b5b636cc4926 Mon Sep 17 00:00:00 2001
+From: josoftme <joshuaiheji@gmail.com>
+Date: Mon, 19 Sep 2016 22:56:48 +0100
+Subject: [PATCH] Adding a readme file
+
+---
+ README.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.txt
+
+diff --git a/README.txt b/README.txt
+new file mode 100644
+index 0000000..8bc397c
+--- /dev/null
++++ b/README.txt
+@@ -0,0 +1 @@
++This is me testing the powerful git using the amazing GitHub.
+\ No newline at end of file
+-- 
+2.10.0.windows.1
+
