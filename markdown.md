@@ -4,13 +4,14 @@ My name is **Joshua Ihejiamaizu** and I am proudly *Nigerian*.
 
 ## Here are a list of things I love:
 
-* Football
 * The Bible
+* The Sax
+* Pancakes
 
-# In football my favourite clubs are in this order
+# Some of my favorite people
 
-1. Liverpool 
-2. Real Madrid
+1. Patrick Adeyemi 
+2. Sunny Ogbereyo
 
 ## This is me
 
@@ -28,10 +29,10 @@ Someone in Kesaghani said:
 
 ## Here is a list of my favourite clubs and their managers
 
-Club         | Manager
+Company      | Device
 ------------ | -------------
-Liverpool    | Jurgen Klopp
-Real Madrid  | Zinadine Zidane
+Microsoft    | Surface Pro
+Apple        | iPhone X
 
 # I am one happy being
 
